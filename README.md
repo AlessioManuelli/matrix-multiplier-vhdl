@@ -13,4 +13,4 @@ Simulazioni e verifiche condotte su **ModelSim** e **Vivado** per analizzare tem
 - Vivado  
 
 ## Risultati
-Sistema digitale in grado di effettuare la moltiplicazione di matrici con tempi di calcolo ottimizzati e corretto comportamento logico.
+Sistema digitale in grado di effettuare la moltiplicazione di matrici.
